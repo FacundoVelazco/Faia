@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jmathlink">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ar.edu.utn.frsf.cidisi.faia/lib/jmathlink.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

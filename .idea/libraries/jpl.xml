@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jpl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ar.edu.utn.frsf.cidisi.faia/lib/jpl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
