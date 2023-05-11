@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Faia:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Faia_jar</output-path>
+    <root id="archive" name="Faia.jar">
+      <element id="module-output" name="Faia" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ar.edu.utn.frsf.cidisi.faia/lib/jmathlink.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ar.edu.utn.frsf.cidisi.faia/lib/jpl.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
